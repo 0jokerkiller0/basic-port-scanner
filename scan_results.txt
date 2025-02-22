@@ -1,0 +1,10 @@
+Full Scan Results for 192.168.50.1 (1-65535):
+
+Scan Results for google.com (142.250.182.206) - 2025-02-22 18:26:48:
+Port 443 is OPEN (HTTPS)
+Port 80 is OPEN (HTTP)
+
+Scan Results for facebook.com (157.240.242.35) - 2025-02-22 18:27:15:
+Port 443 is OPEN (HTTPS)
+Port 80 is OPEN (HTTP)
+
